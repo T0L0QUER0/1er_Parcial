@@ -77,7 +77,7 @@ fun BusinessItem(text: String) {
             .fillMaxWidth()
             .height(120.dp),
         colors = CardDefaults.cardColors(
-            containerColor = purpleLight,
+            containerColor = purpleDark,
             contentColor = Color.White
         )
     ) {
